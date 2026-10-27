@@ -1,10 +1,5 @@
 {
   "type": "module",
-  "scripts": {
-    "build": "vite build",
-    "start": "tsx server.ts",
-    "dev": "tsx server.ts"
-  },
   "dependencies": {
     "jose": "6.2.12",
     "kysely": "0.26.3",
